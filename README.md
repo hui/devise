@@ -1,0 +1,1 @@
+A password validation tool for [ruby devise gem](https://github.com/plataformatec/devise) in go.
